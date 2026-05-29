@@ -14,7 +14,7 @@ print("Орташа мән:", average)
 
 # 3-тапсырма: Сандарды өсу ретімен сұрыптау (sort)
 task3_list = [45, 12, 78, 3, 25]
-task3_list.sort()  # Тізімді өзінде сұрыптайды
+task3_list.sort()
 print("Сұрыпталған тізім:", task3_list)
 extra_list = [14, 8, 25, 3, 19]
 min_number = min(extra_list)
